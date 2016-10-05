@@ -1,4 +1,4 @@
-application: trapstoned-145301.appspot.com
+application: trapstoned-145301
 version: secureable
 runtime: python27
 api_version: 1
